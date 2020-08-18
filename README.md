@@ -8,4 +8,4 @@ Added steps, calories, and Heart rate the top! It can be accessed with a single 
 
 Added D A R K logo at the bottom to describe BEGINNING IS THE END & END IS THE BEGINNING !
 
-Try exploring it ! To download [a click here]https://gallery.fitbit.com/details/3270af07-70f1-4b5f-b849-4090f340aff0
+Try exploring it ! To download [a click here](https://gallery.fitbit.com/details/3270af07-70f1-4b5f-b849-4090f340aff0)
