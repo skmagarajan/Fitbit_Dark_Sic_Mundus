@@ -1,0 +1,129 @@
+.background {
+  viewport-fill: black;
+}
+
+.cycle-item text {
+  font-size: 15;
+  font-family: System-Regular;
+  font-weight: regular;
+  text-length: 32;
+  fill: white;
+  x: 10%;
+  y: 6%;
+  text-anchor: end;
+}
+
+#batteryLabel {
+  font-size: 18;
+  font-family: System-Regular;
+  text-length: 32;
+  text-anchor: end;
+  x: 98%;
+  y: 6%;
+  fill: white;
+}
+
+#myMonth {
+  font-size: 18;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 49%;
+  y: 50%;
+  fill: white;
+}
+
+#myDay {
+  font-size: 18;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: end;
+  x: 46%;
+  y: 50%;
+  fill: white;
+}
+
+#dayLabel {
+  font-size: 18;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: start;
+  x: 44%;
+  y: 58%;
+  fill: white;
+}
+
+#caloriesIcon {
+  height: 25;
+  width: 25;
+  href: "fire_3.png";
+}
+
+#caloriesLabel {
+  font-size: 15;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: start;
+  fill: chartreuse;
+}
+
+
+#footIcon {
+  height: 25;
+  width: 25;
+  href: "steps_3.png";
+  fill: chartreuse;
+}
+
+#footStepLabel {
+  font-size: 15;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: start;
+  fill: chartreuse;
+}
+
+#heartIcon {
+  height: 25;
+  width: 25;
+  href: "heart_3.png";
+  fill: chartreuse;
+}
+
+#heartRateLabel {
+  font-size: 15;
+  font-family: Colfax-Regular;
+  text-length: 32;
+  text-anchor: start;
+  fill: chartreuse;
+}
+
+#hrLabel {
+  font-size: 70;
+  font-family: Colfax-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 56%;
+  y: 37%;
+  fill: chartreuse;
+}
+
+#minLabel {
+  font-size: 40;
+  font-family: Colfax-Bold;
+  text-length: 32;
+  text-anchor: start;
+  x: 18%;
+  y: 68%;
+  fill: chartreuse;
+}
+
+#secLabel {
+  font-size: 40;
+  font-family: Colfax-Light;
+  text-length: 32;
+  text-anchor: start;
+  x: 63%;
+  y: 68%;
+  fill: chartreuse;
+}

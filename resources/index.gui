@@ -1,0 +1,44 @@
+<svg class="background">
+  <text id="myLabel" />
+<!--   <image  href="Sic-Mundus-Creatus-Est.png" /> -->
+  <image  id="nerupu" href="SicMundus_1.png" />
+  <text id="hrLabel" />
+  <text id="minLabel" />
+  <text id="secLabel" />
+  
+  <text id="myMonth" />
+  <text id="myDay" />
+  <text id="batteryLabel" />
+  <text id="dayLabel" />
+  
+    <use id="stats-cycle" href="#cycleview">
+    <use href="#cycleview-item" class="cycle-item">
+      
+      <image id="footIcon" x="38%" />
+      <text id="footStepLabel" x="48%"></text>
+        <g pointer-events="visible" transform="translate(48%,88%)">
+          <animateTransform attributeType="rotate" from="0" to="360" begin="load;enable" dur="6" repeatCount="indefinite"/>
+          <image x="$-25" y="$-25" width="50" height="50"href="SicMundus_lr.png"  />
+        </g>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <text id="caloriesLabel" x="48%"></text>
+      <image id="caloriesIcon" x="38%"/>
+        <g pointer-events="visible" transform="translate(48%,88%)">
+          <animateTransform attributeType="rotate" from="0" to="360" begin="load;enable" dur="6" repeatCount="indefinite"/>
+          <image x="$-25" y="$-25" width="50" height="50"href="SicMundus_lr.png"  />
+        </g>
+    </use>
+    <use href="#cycleview-item" class="cycle-item">
+      <text id="heartRateLabel" x="48%"></text>
+      <image id="heartIcon" x="38%" />
+      <g pointer-events="visible" transform="translate(48%,88%)">
+          <animateTransform attributeType="rotate" from="0" to="360" begin="load;enable" dur="6" repeatCount="indefinite"/>
+          <image x="$-25" y="$-25" width="50" height="50"href="SicMundus_lr.png"  />
+       </g>
+    </use>
+  </use>
+  
+</svg>
+
+

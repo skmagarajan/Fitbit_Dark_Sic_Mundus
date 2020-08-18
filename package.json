@@ -1,0 +1,27 @@
+{
+  "fitbit": {
+    "appUUID": "3270af07-70f1-4b5f-b849-4090f340aff0",
+    "appType": "clockface",
+    "appDisplayName": "Dark_Sic_Mundus",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [
+      "access_activity",
+      "access_heart_rate"
+    ],
+    "buildTargets": [
+      "meson",
+      "gemini",
+      "mira"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Dark_Sic_Mundus"
+      }
+    },
+    "defaultLanguage": "en-US"
+  },
+  "devDependencies": {
+    "@fitbit/sdk": "~4.1.0"
+  }
+}
